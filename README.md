@@ -1,4 +1,5 @@
 # Anime Collection Project Assignment
+#### React.js | GraphQL | Emotion
 
 ## Node Modules Was Not Pushed
 
